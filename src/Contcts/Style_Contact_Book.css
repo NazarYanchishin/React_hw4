@@ -1,0 +1,20 @@
+.t{
+    display: flex;
+}
+.i{
+    margin-left: 10%;
+}
+.u{
+    margin: 0 10%;
+}
+.wrapper{
+background-color: slateblue;
+    display: flex;
+
+}
+.name{
+    margin-left: 10%;
+}
+.sureName{
+    margin: 0 10%;
+}
